@@ -13,7 +13,7 @@
         </v-list>
         </v-navigation-drawer>
     <v-toolbar app class="brown lighten-2">
-      <v-toolbar-title>ร้านหนังสือยินดีต้อนรับจ้า</v-toolbar-title>
+      <v-toolbar-title>ร้านกาแฟยินดีต้อนรับจ้า</v-toolbar-title>
       <v-spacer/>
       <v-toolbar-side-icon @click.stop="drawer = !drawer"/>
     </v-toolbar>
